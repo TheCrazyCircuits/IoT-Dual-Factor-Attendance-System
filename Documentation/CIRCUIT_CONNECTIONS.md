@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="hardware_setup.jpg" alt="Physical Hardware Circuit" width="700">
+</p>
+
+---
+
 ## 📑 Table of Contents
 1. [Component Identification & Pin Numbering](#1-component-identification--pin-numbering)
 2. [Critical Electrical Safety & Voltage Rules](#2-critical-electrical-safety--voltage-rules)
