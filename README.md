@@ -4,6 +4,12 @@ An end-to-end, edge-computing embedded attendance tracking system built with **A
 
 ---
 
+<p align="center">
+  <img src="Documentation/hardware_setup.jpg" alt="Hardware Circuit Setup" width="750">
+</p>
+
+---
+
 ## 🌟 Key Features
 
 1. **Dual-Factor Authentication:**
